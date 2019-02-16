@@ -1,0 +1,3 @@
+rootProject.name = 'careemApp'
+
+include ':app'

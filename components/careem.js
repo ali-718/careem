@@ -35,6 +35,7 @@ const style = StyleSheet.create({
         marginTop:20,
         backgroundColor: this.state.bg,
         borderRadius:10,
+        padding: 5,
     },
     txtInputtwo:{
         height:180,
